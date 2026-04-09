@@ -1,0 +1,45 @@
+{
+    "titulo": "DicionarioDados_Carga_Verificada",
+    "dicionario_simplificado": [
+        {
+            "descricao": "Código da Área de Carga",
+            "codigo": "cod_areacarga"
+        },
+        {
+            "descricao": "Data de Referência",
+            "codigo": "dat_referencia"
+        },
+        {
+            "descricao": "Data de referência do final do intervalo da semi-hora, no fuso horário UTC+0h",
+            "codigo": "din_referenciautc"
+        },
+        {
+            "descricao": "Valor da Carga Global em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_cargaglobal"
+        },
+        {
+            "descricao": "Valor da Carga Global líquida de MMGD em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_cargaglobalsmmg"
+        },
+        {
+            "descricao": "Valor da Carga atendida por MMGD em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_cargammgd"
+        },
+        {
+            "descricao": "Valor da Carga Global consistida em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_cargaglobalcons"
+        },
+        {
+            "descricao": "Valor da Consistência em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_consistencia"
+        },
+        {
+            "descricao": "Valor da Carga supervisionada pelo ONS (geração tipo I, IIA, IIB, IIC e intercâmbios)em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_cargasupervisionada"
+        },
+        {
+            "descricao": "Valor da Carga não supervisionada pelo ONS, proveniente do sistema de medição para faturamento da CCEE (geração tipo III) em MWmed integralizada no final do intervalo da semi-hora",
+            "codigo": "val_carganaosupervisionada"
+        }
+    ]
+}
